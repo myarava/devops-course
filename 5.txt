@@ -1,2 +1,6 @@
 i am goood
+<<<<<<< Updated upstream
 How about you
+=======
+Hello GitOPS team, git learner
+>>>>>>> Stashed changes

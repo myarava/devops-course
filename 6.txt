@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 Hello world
-<<<<<<< HEAD
 get on it
 =======
 Hello GitOps team
 >>>>>>> parent of bef296b... both files are deleted
-=======
->>>>>>> parent of 478a6a6... new line

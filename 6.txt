@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello world
 get on it
+=======
+Hello GitOps team
+>>>>>>> parent of bef296b... both files are deleted
